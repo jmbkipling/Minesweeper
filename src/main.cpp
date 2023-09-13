@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "hi";
+    cout << "Welcome to Minesweeper!";
     return 0;
 }
