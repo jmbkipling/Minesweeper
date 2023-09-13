@@ -1,5 +1,5 @@
 TARGET = HelloWorld
-SRC_FILES = main.cpp
+SRC_FILES = ./src/main.cpp
 
 # NO EDITS NEEDED BELOW THIS LINE
 
